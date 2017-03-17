@@ -1,0 +1,9 @@
+{
+    "debug_mode": true,
+    "gpg": {
+        "path": "/usr/bin/gpg"
+      },
+    "port" : "8001",
+    "endpoint" :"/getDSignTreatmentResults",
+    "timeout" :"600000"
+}
